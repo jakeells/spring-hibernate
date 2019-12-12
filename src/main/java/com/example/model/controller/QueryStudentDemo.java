@@ -1,4 +1,4 @@
-package com.example.model;
+package com.example.model.controller;
 
 import com.example.hibernate.demo.entity.Student;
 import org.hibernate.Session;
